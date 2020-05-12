@@ -12,5 +12,5 @@ def test_exercise():
     statistics.add_number(2)
 
     assert statistics.get_count() == 4
-    assert statistics.sum() == 11
-    statistics.average() == 2.75
+    assert statistics.sum == 11
+    assert statistics.average() == 2.75
