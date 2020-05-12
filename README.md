@@ -77,8 +77,8 @@ main():
     statistics.add_number(5)
     statistics.add_number(1)
     statistics.add_number(2)
-    print("Count: " + str(statistics.get_count()))
-    print("Sum: " + str(statistics.sum()))
+    print("Count: " + str(statistics.get_count())))
+    print("Sum: " + str(statistics.sum))
     print("Average: " + str(statistics.average()))
 ```
 
